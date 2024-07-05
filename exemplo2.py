@@ -1,4 +1,4 @@
 print("outro exemplo")
  
 for x in range(1,101):
-    print(x)
+    print(f"A sua senha é {x}")
